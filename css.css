@@ -17,7 +17,7 @@ body {
   }
 
   .item1 {
-    grid-column: 1 / span 50;
+    grid-column: 1 / span 1;
     grid-row: 1;
   }
 
