@@ -25,3 +25,8 @@ body {
     grid-column: 3;
     grid-row: 1 / 2
   }
+
+  .item5 {
+    grid-column: 1 / span 3;
+    grid-row: 3;
+  }
