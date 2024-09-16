@@ -28,3 +28,11 @@ body {
     grid-column: 1 / span 3;
     grid-row: 3;
   }
+
+  #rcorners1 {
+    border-radius: 25px;
+    background: #ffdb4d;
+    padding: 20px;
+    width: 200px;
+    height: 150px; 
+  }
